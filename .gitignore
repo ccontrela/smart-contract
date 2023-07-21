@@ -1,0 +1,51 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain-types
+typechain
+.vscode
+deployment
+
+#Hardhat files
+cache
+artifacts
+
+v8-compile-cache-0
+
+# -------- abi-gui --------
+## dependencies
+/abi-gui/node_modules
+/abi-gui/.pnp
+/abi-gui/.pnp.js
+
+# testing
+/abi-gui/coverage
+
+# next.js
+/abi-gui/.next/
+/abi-gui/out/
+
+# production
+/abi-gui/build
+
+# misc
+/abi-gui/.DS_Store
+/abi-gui/*.pem
+
+# debug
+/abi-gui/npm-debug.log*
+/abi-gui/yarn-debug.log*
+/abi-gui/yarn-error.log*
+
+# local env files
+/abi-gui/.env
+
+# vercel
+/abi-gui/.vercel
+
+# typescript
+/abi-gui/*.tsbuildinfo
+
+# track of all the implementation contracts
+.openzeppelin/unknown-*.json

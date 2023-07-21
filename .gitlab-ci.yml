@@ -1,0 +1,7 @@
+image: node:16
+
+unit_test:
+  script:
+    - npm install
+    - npm run compile
+    - npm run test

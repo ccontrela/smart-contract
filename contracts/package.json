@@ -1,0 +1,16 @@
+{
+  "name": "@massless.io/smart-contract-library",
+  "version": "2.0.1-alpha.10",
+  "files": [
+    "/admin",
+    "/authorize",
+    "/funding",
+    "/interfaces",
+    "/minting",
+    "/payment",
+    "/royalty",
+    "/sale",
+    "/signature",
+    "/withdrawal"
+  ]
+}
